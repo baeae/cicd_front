@@ -7,7 +7,7 @@ function Footer() {
     <>
       <div className="Footer">
         <img src={emotion1} />
-        <div className="Footer_div">Programmer Heehung Jang!</div>
+        <div className="Footer_div">Programmer jackdinel</div>
       </div>
     </>
   );
